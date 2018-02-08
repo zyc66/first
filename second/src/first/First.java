@@ -7,4 +7,8 @@ public class First {
         this.i = i;
     }
 
+    public static void main(String[] args) {
+
+    }
+
 }
